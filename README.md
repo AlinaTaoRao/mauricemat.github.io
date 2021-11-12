@@ -8,7 +8,7 @@ backlogs, wireframes, etc.
 <!-- Alina: the live preview url need to adapt -->
 
 Maurice Mateke's Home Page
-[Live Preview](https://github.com/mauricemat/mauricemat.github.io)
+[Live Preview](https://github.com/AlinaTaoRao/AlinaTaoRao.github.io)
 
 ## Getting Started
 
